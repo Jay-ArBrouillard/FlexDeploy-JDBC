@@ -1,0 +1,11 @@
+Workflow Name,Property Key Name,Property Scope,Property Definition Name,Property Value
+FlexDeploy Config Sync,TEST477,ENVINST,defaultValue,test477
+FlexDeploy Config Sync,TEST477,ENVINST,description,test477
+FlexDeploy Config Sync,TEST477,ENVINST,displayColumns,50
+FlexDeploy Config Sync,TEST477,ENVINST,displayName,test477
+FlexDeploy Config Sync,TEST477,ENVINST,displayRows,3
+FlexDeploy Config Sync,TEST477,ENVINST,isEncrypted,N
+FlexDeploy Config Sync,TEST477,ENVINST,isMultiselect,Y
+FlexDeploy Config Sync,TEST477,ENVINST,isRequired,Y
+FlexDeploy Config Sync,TEST477,ENVINST,maxValue,100
+FlexDeploy Config Sync,TEST477,ENVINST,minValue,1
