@@ -1,4 +1,6 @@
 Workflow Name,Property Key Name,Property Scope,Property Definition Name,Property Value
+OIC - Deploy partial,MG_ORACLE_HCM_CONNECTI_TEST_AGENTDEFINITION,ENVINST,description,MG_ORACLE_HCM_CONNECTI_TEST_AGENTDEFINITION
+FlexDeploy Config Sync,TEST477,ENVINST,defaultValue,test477
 FlexDeploy Config Sync,TEST477,ENVINST,defaultValue,test477
 FlexDeploy Config Sync,TEST477,ENVINST,description,test477
 FlexDeploy Config Sync,TEST477,ENVINST,displayColumns,50
