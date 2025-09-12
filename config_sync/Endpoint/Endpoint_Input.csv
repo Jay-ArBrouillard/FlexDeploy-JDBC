@@ -5,7 +5,7 @@ TEST_EP_01,SSH,javaPath,/u01/jdk1.8.0_176,NA
 TEST_EP_01,SSH,endpointAddress,abc.yxxxz.com,NA
 TEST_EP_01,SSH,endpointPort,23,NA
 TEST_EP_01,SSH,transferProtocol,SCP,NA
-TEST_EP_01,SSH,passwordCredentialId,NA,Test5
+TEST_EP_01,SSH,passwordCredentialId,NA,Test11
 TEST_EP_01,SSH,userName,asdad,NA
 TEST_EP_01,SSH,osType,UNIX,NA
 TEST_EP_01,SSH,privilegeEscalation,sudo,NA
