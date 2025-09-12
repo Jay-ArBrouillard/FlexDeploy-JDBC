@@ -12,3 +12,4 @@ FlexDeploy Config Sync,TEST477,ENVINST,isRequired,Y
 FlexDeploy Config Sync,TEST477,ENVINST,maxValue,100
 FlexDeploy Config Sync,TEST477,ENVINST,minValue,1
 FlexDeploy Config Sync,TEST477,ENVINST,isAllowsVariant,N
+FlexDeploy Config Sync,TEST477,ENVINST,isDefaultExpression,N
