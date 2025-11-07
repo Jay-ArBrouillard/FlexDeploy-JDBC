@@ -1,2 +1,2 @@
-// change 4
+-- change 4
 select 2 from dual;
